@@ -1,0 +1,14 @@
+{
+    "name": "mantis4444/gilded-rose-refactoring-kata-php",
+    "description": "Gilded Rose Refactoring Kara in PHP. Version with created PHP unit tests, refactoring done and new feature added.",
+    "authors": [
+        {
+            "name": "Mantas Koncius",
+            "email": "mantis4444@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
